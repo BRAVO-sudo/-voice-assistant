@@ -1,4 +1,4 @@
-const OPENROUTER_API_KEY = "YOUR_API_KEY_HERE"; // Use free OpenRouter key
+const OPENROUTER_API_KEY = "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"; // Use free OpenRouter key
 
 function startListening() {
   const recognition = new webkitSpeechRecognition() || new SpeechRecognition();
